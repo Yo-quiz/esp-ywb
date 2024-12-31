@@ -1,6 +1,5 @@
 // Lista completa de Yo-kai con sus nombres e imágenes
 const yoKaiList = [
-  [
   { "name": "Pelirrojo", "img": "Pelirrojo.png" },
   { "name": "Grazi", "img": "Grazi.png" },
   { "name": "Usapyon", "img": "Usapyon.png" },
@@ -52,7 +51,7 @@ const yoKaiList = [
   { "name": "Vueltodorado", "img": "Vueltodorado.png" },
   { "name": "Intelecto Iluminado", "img": "Intelecto_Iluminado.png" },
   { "name": "Shogún Real", "img": "Shogun_Real.png" },
-  { "name": "Emperador Rosa", "img": "Emperador_Rosa.png" }
+  { "name": "Emperador Rosa", "img": "Emperador_Rosa.png" },
       
 ];
 
