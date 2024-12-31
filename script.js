@@ -53,7 +53,7 @@ const yoKaiList = [
   { "name": "Shogún Real", "img": "Shogun_Real.png" },
   { "name": "Emperador Rosa", "img": "Emperador_Rosa.png" },
       
-];
+]
 
 let score = 0; 
 let gameEnded = false; // Evita cambios una vez terminado el juego
