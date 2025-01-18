@@ -46,7 +46,7 @@ const yoKaiList = [
   { "name": "Duque Lametodo", "img": "Duque_Lametodo.png" },
   { "name": "Chupatricio", "img": "Chupatricio.png" },
   { "name": "Zazel", "img": "Zazel.png" },
-  { "name": "Zazerilio", "img": "Zazerilio.png" },
+  { "name": "Zazerilio", "img": "Zazelirio.png" },
   { "name": "Zarpadorada", "img": "Zarpadorada.png" },
   { "name": "Vueltodorado", "img": "Vueltodorado.png" },
   { "name": "Intelecto Iluminado", "img": "Intelecto_Iluminado.png" },
